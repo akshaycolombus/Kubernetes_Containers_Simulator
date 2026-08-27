@@ -5,7 +5,7 @@ A 100% self-contained, highly visual, explorable digital textbook and interactiv
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1.30+-326CE5?logo=kubernetes&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-v3.0+-38BDF8?logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20ES6+-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-Vanilla%20ES6+-F7DF1E?logo=javascript&logoColor=black)\n![Visitors](https://api.visitorbadge.io/api/visitors?path=akshaycolombus%2FKubernetes_Containers_Simulator&label=VISITORS&countColor=%2322d3ee)
 
 ---
 
